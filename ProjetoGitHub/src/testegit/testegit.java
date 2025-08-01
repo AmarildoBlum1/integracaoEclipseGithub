@@ -12,5 +12,7 @@ public class testegit {
 		System.out.println("mais uma vez");
 
 		System.out.println("só mais uma vez");
+		
+		System.out.println("criando cenario de conflito");
 	}
 }
