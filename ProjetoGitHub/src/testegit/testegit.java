@@ -7,6 +7,8 @@ public class testegit {
 		
 		System.out.println("é noiss");
 
+		System.out.println("commit do git");
+
 	}
 
 }
